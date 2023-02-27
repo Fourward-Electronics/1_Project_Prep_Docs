@@ -1,4 +1,14 @@
 ![mygreatheader](fourward-electronics-logo2.png)
 
-## Hi there 👋 Welcome to Fourward Electronics
+## 👋 Welcome to Fourward Electronics
+
+### Meet Our Team !
+
+- Dericus Horner
+
+- Paul Strond
+
+- Anthony Wall
+
+- Sierra Maldonado
 
