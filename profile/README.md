@@ -1,3 +1,4 @@
+<p align="center">
 ![mygreatheader](image.png)
 
 ## 👋 Welcome to Fourward Electronics
