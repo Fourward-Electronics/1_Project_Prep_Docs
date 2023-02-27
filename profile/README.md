@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to Fourward Electronics
 
-### Meet Our Team !
+### Meet Our Team!
 
 - Dericus Horner
 
